@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="931c387b-acd4-4a4f-be04-7b7c2a1d6af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/MainInterfaceConsole.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/MainInterfaceTerminal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/MainRun.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainInterface.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainInterface.py" afterDir="false" />
     </list>
@@ -30,7 +27,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2AaMjCf1FMizcNy219rEzkj0yuR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,10 +40,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/OEM/OneDrive - Aquinas College/Documents/GitHub/Python-Boolean-Algebra-Calulator/MainInterface.py"
+    "last_opened_file_path": "C:/Users/OEM/OneDrive - Aquinas College/Documents/GitHub/Python-Boolean-Algebra-Calulator/MainInterface.py",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.MainInterfaceTerminal">
+  <component name="RunManager" selected="Python.MainRun">
     <list>
       <item itemvalue="Python.MainInterfaceTerminal" />
       <item itemvalue="Python.MainInterfaceConsole" />
